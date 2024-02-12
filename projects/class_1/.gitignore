@@ -1,0 +1,5 @@
+sndfile-example-bin
+.vscode
+.idea
+cmake-build-debug
+#songs
